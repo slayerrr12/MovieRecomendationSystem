@@ -1,2 +1,2 @@
 # MovieRecomendationSystem
-MovieRecomendationSytem
+MovieRecomendationSytem made this project for a college assignment
